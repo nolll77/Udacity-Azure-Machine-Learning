@@ -1,5 +1,4 @@
-# Udacity-Azure-Machine-Learning
-Introduction to Azure Machine Learning
+# Introduction to Azure Machine Learning
 
 
 Microsoft Scholarship Foundation course Nanodegree Program
